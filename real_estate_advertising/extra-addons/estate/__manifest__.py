@@ -7,9 +7,10 @@
     'description': """
     Real Estate Advertising 
     """,
-    # 'data': [
-    #     'views/mymodule_view.xml',
-    # ],
+    'data': [
+        # 'views/mymodule_view.xml',
+        'security/ir.model.access.csv',
+    ],
     # 'demo': [
     #     'demo/demo_data.xml',
     # ],
